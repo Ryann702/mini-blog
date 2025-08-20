@@ -1,0 +1,9 @@
+TITLE,CONTENT
+Primeiro Teste,Este é um novo conteúdo para testar o CSV.
+Segundo Teste,Aqui vai um texto um pouco maior, para garantir que a leitura funcione corretamente mesmo com várias palavras.
+Terceiro Teste,Conteúdo simples.
+Quarto Teste,"Este conteúdo tem, vírgulas, e precisa estar entre aspas."
+Quinto Teste,"Aqui temos um conteúdo com ""aspas"" dentro dele, só pra ver se funciona."
+Sexto Teste,Mais um post de teste com texto básico.
+Sétimo Teste,"Um título pode conter vírgula, assim: Título com vírgula, e o conteúdo também."
+Oitavo Teste,Finalizando os exemplos para validar o arquivo CSV.
